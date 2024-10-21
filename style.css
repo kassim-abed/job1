@@ -1,0 +1,16 @@
+#titanic {
+  float: none;
+}
+section  {
+  text-align: center;
+  size: 20px;
+  
+}
+h2 {
+  color: red;
+}
+.cadre {
+  border: 2px solid #000; /* Cadre de 2 pixels de largeur, couleur noire */
+  padding: 20px; /* Espacement à l'intérieur du cadre */
+  border-radius: 8px; /* Coins arrondis */
+}
